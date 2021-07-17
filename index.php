@@ -1,7 +1,10 @@
 <?php 
   class SimpleClass
   {
-
+    public function simple() {
+      echo 1;
+      return 1;
+    }
   }
 
 ?>
